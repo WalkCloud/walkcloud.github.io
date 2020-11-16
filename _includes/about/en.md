@@ -13,12 +13,5 @@
 - Information System Project Manager
 
 
-##### Links
-
-
-- [MY CSDN BLOG](https://blog.csdn.net/u014186673)
-- [MY SINA BLOG](http://blog.sina.com.cn/foremol)
-
-
 
 

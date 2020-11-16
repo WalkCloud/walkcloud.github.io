@@ -1,11 +1,11 @@
 # Site settings
-title: CHILONE'S Blog
-SEOTitle: 张志龙的博客 | CHILONE'S Blog
+title: Kevin Lee's Blog
+SEOTitle: 攻城狮Kevin的小酒馆 | Kevin Lee's Blog
 header-img: img/home-bg.jpg
-email: chilone@foxmail.com
-description: "这里是 @pekinglone 的个人博客，与你一起发现更大的世界。"
+email: walkcloud.kevin@gmail.com
+description: "这里是攻城狮Kevin的个人博客，与你一起发现更大的世界。"
 keyword: "博客, 个人网站"
-url: "http://blog.chilone.tk"              # your host, for absolute URL
+# url: "https://walkcloud.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     pekinglone
-#zhihu_username:     huxpro
-github_username:    pekinglone
+#weibo_username:    WalkCloud
+#zhihu_username:    kevinlee
+github_username:    WalkCloud
 #twitter_username:   huxpro
 #facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+#linkedin_username:  firstname-lastname-idxxxxs
 
 
 
@@ -103,14 +103,11 @@ page-mathjax: false
 # Friends
 friends: [
     {
-         title: "元鼎科技",
+         title: "test",
          href: "http://blog.yuandingit.com/"
     },{
          title: "MY CSDN BLOG",
          href: "https://blog.csdn.net/u014186673"
-    },{
-         title: "MY SINA BLOG",
-         href: "http://blog.sina.com.cn/foremol"
     }
 ]
 

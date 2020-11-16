@@ -1,18 +1,14 @@
 > 对于任何事，你相信它它就是真的，你不相信它它就是假的。
 
 ##### 个人认证
+- 思科认证互联网网络专家(CCIE #35204)
 - Kubernetes认证管理员(CKA)
-- IBM私有云企业合作伙伴专家
-- AWS认证解决方案架构师（SAA）
-- 腾讯云认证架构工程师（TCA）
-- 阿里云认证云计算专家（ACP）
-- 星环大数据平台认证数据工程师
-- 百分点大数据平台认证数据工程师
-- 信息系统项目管理师
-
-##### 其他链接
+- Opensatck认证管理员(COA)
+- Redhat认证工程师(RHCE)
+- VMware认证数据中心虚拟化工程师（VCP-DCV）
+- VMware认证桌面管理工程师(VCP-DM)
+- Citrix认证桌面管理工程师（CCA-V）
+- Nutanix认证超融合工程师（NCP）
 
 
-- [我的CSDN博客](https://blog.csdn.net/u014186673)
-- [我的新浪博客](http://blog.sina.com.cn/foremol)
 
